@@ -4,7 +4,6 @@ Employee Dashboard : https://ravitejamoningi.shinyapps.io/EmployeeInfo/
 This app allows users to submit and reset employee details in a simple, centralized form layout.
 
 UI Layout:
-
 The fluidPage() function is used to create a responsive layout.
 Custom CSS is added with tags$head() and tags$style() to set a light blue background, ensure full-page height, and center the form in the middle.
 The form fields (textInput(), textAreaInput(), selectInput()) are wrapped inside a div container for styling and centered alignment.
